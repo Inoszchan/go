@@ -1,0 +1,557 @@
+TiviMe-923
+
+SUBSCRIBE TiviMe Youtube
+TERIMA KASIH
+
+#EXTM3U
+
+#EXTINF:-1 group-title="Playlist Channel Premium Terbaru",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-1 group-title="Subscribe TiviMe Youtube",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-1 group-title="Playlist ini jangan diperjualbelikan", SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+
+
+#EXTINF:-1 group-title="INDONESIA",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RCTI
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021-mp4a_64000=2-avc1_100000=8.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",GTV
+https://d32k4dhnksn5q9.cloudfront.net/live/eds/GTV2021/live_fta/GTV2021-mp4a_64000=2-avc1_800000=6.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",MNC TV
+https://d2oaub8o4ti3xm.cloudfront.net/live/eds/MNCTV_2021/live_fta/MNCTV_2021-mp4a_64000=2-avc1_800000=6.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",INEWS
+https://d1akid76fpbq4x.cloudfront.net/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",SCTV
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+http://rr2.dens.tv/s/s04/index.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d69446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="INDONESIA",TRANS TV
+http://rr2.dens.tv/s/s05/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6c29793a140a811d0c45ce03c1c93a28446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="INDONESIA",TRANS 7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+http://rr.dens.tv/h/h11/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",Trans 7
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=e995f98d56967d946471af29d7bf99f1446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://rr2.dens.tv/s/s07/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TV ONE
+http://rr2.dens.tv/s/s105/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",NET TV
+http://rr2.dens.tv/s/s08/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RTV
+http://rr1.dens.tv/h/h10/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",O Channel
+https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA",KOMPAS TV
+http://rr2.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",CNN
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/eroz_brebes.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1352897452_b280000_sleng.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",METRO TV
+http://rr.dens.tv/h/h12/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",MAGNA CHANNEL
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
+
+#EXTINF:-1 group-title="INDONESIA",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",BERITA SATU WORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",TVRI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=0b07c4aabfdc28bb8236e195c401e1b2446503011668def857b1c03bafabba51
+
+#EXTINF:-1 group-title="INDONESIA",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",TVRI WORLD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",MENTARI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+
+#EXTINF:0 tvg-id="ext" group-title="INDONESIA",NUSANTARA TV
+http://kunyak.my.id/sok/nusantaratv.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",GARUDA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#EXTINF:-1 group-title="INDONESIA",RRI-NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+
+
+#EXTINF:-1 group-title="MOVIES",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyn_tp0SZW4VJnoj-hKhT7FPea4-aSnNUyhw&usqp=CAU" group-title="MOVIES",HBO
+https://bit.ly/3PYh081
+
+#EXTINF:-1 group-title="MOVIES",AXN
+http://210.210.155.35/session/f126a43c-74e5-11ec-8642-c81f66f89318/dr9445/h/h141/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",WARNER TV
+http://kunyak.my.id/soklah/wrnr.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CELESTIAL MOVIES
+http://210.210.155.35/session/5bf247f6-7a97-11ec-8b65-b82a72d63267/dr9445/h/h14/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",CELESTIAL CLASSIC MOVIES
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CINEMA WORLD
+http://210.210.155.35/session/1c3b9f90-7a97-11ec-8b65-b82a72d63267/dr9445/h/h04/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TVN
+http://210.210.155.35:80/session/29486ad0-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h20/02.m3u8
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TVN MOVIES
+http://210.210.155.35:80/session/86fa742a-9b9d-11eb-adb6-b82a72d63267/dr9445/h/h21/02.m3u8
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",KIX
+http://210.210.155.35/session/2e0a198c-dd98-11eb-a5a6-c81f66f89318/dr9445/h/h07/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MY CINEMA
+http://rr.dens.tv/h/h192/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MY CINEMA ASIA
+http://rr.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MY FAMILY CHANNEL
+http://rr.dens.tv/h/h194/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ROCK ENTERTAINMENT
+http://210.210.155.35/session/04d2e2b6-3130-11eb-b6b9-b82a72d63267/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ROCK EXTREME
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 group-title="MOVIES",IMC
+http://kunyak.my.id/sok/imc.m3u8
+
+#EXTINF:-1 group-title="MOVIES",STAR CHINESE MOVIES
+http://kunyak.my.id/sok/starchinesemovies.m3u8
+
+#EXTINF:-1 group-title="MOVIES",STAR CHINESE CHANNEL
+http://kunyak.my.id/sok/starchinesechannel.m3u8
+
+#EXTINF:-1 group-title="MOVIES", CHINESE DRAMA
+http://kunyak.my.id/sok/chinesedrama.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="MOVIES",ZEE BIOSKOP
+http://210.210.155.35/qwr9ew/s/s32/01.m3u8
+
+
+
+#EXTINF:-1 group-title="PENGETAHUAN UMUM",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQegdiyQbPfAjNpyrTBF6wL6geqBnasoHrLiA&usqp=CAU" group-title="PENGETAHUAN UMUM", TV EDUKASI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=9fa83fec3cf3810e5680ed45f7124dce446503011668def857b1c03bafabba51
+
+#EXTINF:0 tvg-id="ext" group-title="PENGETAHUAN UMUM", DISCOVERY ASIA
+https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="PENGETAHUAN UMUM",BISNET ADVENTURE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="" group-title="PENGETAHUAN UMUM",NAT GEO WILD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+
+#EXTINF:0 tvg-id="" 
+group-title="PENGETAHUAN UMUM",NAT GEO CHANNEL
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+#EXTINF:0 tvg-id="animal_rus" group-title="PENGETAHUAN UMUM",ANIMAL PLANET
+http://203.77.246.50:5000/udp/239.1.2.136:5000
+
+#EXTINF:0 tvg-id="ext" group-title="PENGETAHUAN UMUM",LEARNING & KNOWLEDGE
+http://rr.dens.tv/h/h97/index.m3u8
+
+#EXTINF:0 tvg-id="NASATV.us" group-title="PENGETAHUAN UMUM",NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:0 tvg-id="SmithsonianChannelHD.us" group-title="PENGETAHUAN UMUM",SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="LoveNature.nl" group-title="PENGETAHUAN UMUM",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist720lp.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="discov_rus" group-title="PENGETAHUAN UMUM",DISCOVERY CHANNEL
+http://203.77.246.50:5000/udp/239.1.2.134:5000
+
+
+
+#EXTINF:-1 group-title="ANAK² & KARTUN",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/GFmh7Wm/20220530-141531.jpg" group-title="ANAK² & KARTUN", MY KIDS
+http://rr.dens.tv/h/h191/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://i.ibb.co/GFmh7Wm/20220530-141531.jpg" group-title="ANAK² & KARTUN",INDI KIDS
+http://kunyak.my.id/sok/indikids.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",MENTARI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=7dd2ae7db7d18ee7c9425e38df1af5e2446503011668def857b1c03bafabba51
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",SPACETOON
+http://bravo.kugo.id:1935/spacetoon/udp.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="boomerang" group-title="ANAK² & KARTUN",BOOMERANG
+http://203.77.246.50:5000/udp/239.1.2.158:5000
+
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="ANAK² & KARTUN",NICK TOONS
+http://208.86.19.13:81/15.stream/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",BIZNET KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",TOONZ KIDS
+http://210.210.155.37/x6bnqe/s/s81/01.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=Toonz_Kids
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",NICK PLUTO TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e32672-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=de1061bf-bfba-40c5-b948-91d8210801e2&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",NICK JR PLUTO TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e32673-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21bf3783-0c01-4b1d-9060-24006254a040&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",GARFIELD & FRIENDS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60faf9ddfcc1f200070a5932/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4fb31-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=637a7296-b203-42da-83fb-300e328143d5&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",DORA TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e34d86-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=399ab18c-06b7-48d5-972f-f9024a9a70a7&userId=&serverSideAds=true
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",KIDS MOVIE CLUB
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e39ba5-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e029d0-007c-4513-a784-dd479e643365&userId=&serverSideAds=true
+
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",CAMP SPOOPY
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+
+#EXTINF:0 tvg-id="duck" group-title="ANAK² & KARTUN",DUCK TV
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",TVO KIDS
+https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",LEGO CHANNEL
+https://legochannel-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",MOONBUG KIDS
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",TOTALLY TURTLES
+https://siloh.pluto.tv/lilo/production/Nick/02/master_1.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",PINKFONG BABY SHARK HD
+https://fc2f8d2d3cec45bb9187e8de15532838.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_BabySharkTV/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",PBS KET KIDS
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+
+#EXTINF:0 tvg-id="ext" group-title="ANAK² & KARTUN",ZOO MOO
+https://rockentertainment-zoomoo-1-us.samsung.wurl.tv/2000.m3u8
+
+
+
+#EXTINF:-1 group-title="ANIME",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-1 group-title="ANIME",ANIMAX
+http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+http://45.126.83.51/session/1f46a41a-7575-11ea-9b62-ae4ea97c3062/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 group-title="ANIME",ANIPLUS
+http://rr1.dens.tv/h/h02/01.m3u8?chname=ANIPLUS_HD
+http://210.210.155.35/session/5a96d1bc-6a30-11e9-afe2-91cea6c769ee/dr9445/h/h02/02.m3u8
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 group-title="ANIME",ANIME ALL DAY
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ANIME",NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0c85bd2c9c10009370984/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e374a3-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6dc122c4-9939-4ecc-8331-975968992978&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="ANIME",ONE PIECE
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
+#EXTINF:-1 group-title="TV ISLAMI",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRyrT6YRQorjN1fzvG3p742qy0jyXbl6QgCHP74fA=s900-c-k-c0x00ffffff-no-rj" group-title="TV ISLAMI", TV MUI
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 group-title="TV ISLAMI",AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",ASHIIL TV
+https://h1.intechmedia.net/intech/ch2.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",AL-BAHJAH TV
+https://h1.intechmedia.net/intech/ch64.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",ALFURQON
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",AL-IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",AL-INSAN TV
+https://h1.intechmedia.net/intech/ch1.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",AL QURAN AL KAREEM
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=98f13708210194c475687be6106a3b84dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 group-title="TV ISLAMI",BINA MADANI TV
+https://h1.intechmedia.net/intech/ch20.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",BIN BAZ TV
+https://h1.intechmedia.net/intech/ch22.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",BRITISH MUSLIM
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",HIJRAH TV
+https://h1.intechmedia.net/intech/ch8.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",IZZAH TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+https://streaming.sigraduta.co.id/izzahtv.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI", MUI TV
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=ffd67d44870fda644560c47682a87a73&cdy=cb70ab375662576bd1ac5aaf16b3fca4dfdded94c48ea6229c48edefa9ec1c9f
+
+#EXTINF:-1 group-title="TV ISLAMI",MADANI TV
+https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",MEDS TV
+https://h1.intechmedia.net/intech/ch23.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",MGI TV
+https://h1.intechmedia.net/intech/ch25.m3u8
+https://tv.rodja.live/tasik/mgitv/chunklist_w411374010.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",MUADZ TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",NIAGA TV
+https://h1.intechmedia.net/intech/ch10.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",RASYAAD TV
+https://h1.intechmedia.net/intech/ch6.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",RODJA TV
+https://h1.intechmedia.net/intech/ch26.m3u8
+https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w1148284456_b946000.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",SJP TV
+https://h1.intechmedia.net/intech/ch17.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+http://119.235.249.58:1935/surautv/live/chunklist_w1776413384.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",UFA TV
+https://h1.intechmedia.net/intech/ch27.m3u8
+
+#EXTINF:-1 group-title="TV ISLAMI",WESAL TV
+http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS (Channel ini sewaktu² bisa mati)",SPOTV
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8?hdnea=st=1647684965~exp=9007200902425956~acl=/99545824f
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS (Channel ini sewaktu² bisa mati)",SPOTV 2
+http://kunyak.my.id/sok/spotv2.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="SPORTS (Channel ini sewaktu² bisa mati)",ZQTV SPORT
+https://six.zqprem.com/zqfb/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0P5RNmzGtmr8YoKRYnCyYf6BjSW7RM-6zw&usqp=CAU",Bein Sports Xtra
+https://bit.ly/3t7HM45
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsnLYc1hd0ZFUYR2nXDZaW4HHQhG4Ek8oQ-Q&usqp=CAU" group-title="SPORTS (Channel ini sewaktu² bisa mati)",Glory Kickboxing
+https://bit.ly/3GCBoqY
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a9/Bellator_MMA_Logo.png" group-title="SPORTS (Channel ini sewaktu² bisa mati)",Bellator MMA
+https://bit.ly/3O4uBZV
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",TVRI SPORT
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",SUKAN RTM
+https://rtmlive06tv.secureswiftcontent.com/rtmchannel/06-manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",FIGHTBOX
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",STADIUM
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+
+#EXTINF:0 group-title="SPORTS (Channel ini sewaktu² bisa mati)",ASTRO SUPERSPORT 1
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",ASTRO SUPERSPORT 2
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+
+#EXTINF:-1 group-title="SPORTS (Channel ini sewaktu² bisa mati)",ASTRO SUPERSPORT 3
+http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+
+#EXTINF:-1 tvg-id="TenHD.in" group-title="SPORTS (Channel ini sewaktu² bisa mati)",SONY TEN 1 HD
+http://182.50.65.213:8888/udp/239.239.0.33:3001
+
+#EXTINF:-1 tvg-id="TenAction.in" group-title="SPORTS (Channel ini sewaktu² bisa mati)",SONY TEN 2 HD
+http://182.50.65.213:8888/udp/239.239.0.34:3001
+
+#EXTINF:-1 tvg-id="TenCricket.in" group-title="SPORTS (Channel ini sewaktu² bisa mati)",SONY TEN 3 HD
+http://182.50.65.213:8888/udp/239.239.0.35:3001
+
+
+
+#EXTINF:-1 group-title="MUSIK",SUBSCRIBE TiviMe YOUTUBE
+https://dl.dropboxusercontent.com/s/bhpfob3xyin2ygm/VID_20220516082049.mp4?dl=0.m3u8
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://pbs.twimg.com/profile_images/460661152372903936/KnkCJe5S_400x400.jpeg" group-title="MUSIK", Musica
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=2022&coday=f846bc691110108f73cb55c2f4049864&cdy=6869efe03b7fbef3b001dc15804bc826446503011668def857b1c03bafabba51
+
+#EXTINF:-0 tvg-name="TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" group-title="MUSIK", MTV Live
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVBiggestPop.png",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVBlockParty.png",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVSpankinNew.png",MTV Spankin' New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/MTVWMA.png",CMT Music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://ia801003.us.archive.org/16/items/BoxHits/box%20hits.png", Box Hits
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:0 tvg-id="bridge" tvg-name="" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/072019/btv_.png?ZNqGoMcOaWjielxdh2BbPy9v3du26kIJ&itok=O22CA5kh" group-title="MUSIK", Bridge
+user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+http://ott-cdn.ucom.am/s34/index.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://ia903105.us.archive.org/14/items/CaliforniaMusicChannel/california%20music%20channel.png", CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://www.go-rtv.nl/template/assets/img/logo.png", GO TV
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNIDOivP4MCHoYDAmFJFn4TebbKNkMrNtk5A&usqp=CAU", Loop 80s
+https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://pbs.twimg.com/profile_images/1445550073010540557/zOdg7dKW_400x400.jpg", MTV (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://images.pluto.tv/channels/600ae79fa46e17000794e84c/colorLogoPNG.png", MTV Love Music (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
+
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7KdtWS43FB_Qvd3qtV8pt4Cf1Fspua9Xjjw&usqp=CAU", Vevo '70s (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4QqU3TH3k9P9ch2rCpjpltgna9oIGYguwaQ&usqp=CAU", Vevo '80s (Pluto TV)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c7e4860b-77f8-11ec-8df7-e1b1a799e6b3&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8927ee53-9a67-4b77-b657-50ff6b872c44&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_xe_MTlOzi7WgGBI0f2oWZSIPo2KlseYsLw&usqp=CAU", Vevo '90s (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46L9X34ta5c2AsXKOxjTJEajcOyJ79fjruA&usqp=CAU", Vevo 2K (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpUpzy1XWGT3BAOpIK-x56Go6teBW9DvK0Vw&usqp=CAU",Vevo Retro Rock (Pluto TV)
+https://bit.ly/3GFqbpv
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv9_Dlzxg8OLlRmPfVbGrEE6FKT2z_o_k9uQ&usqp=CAU", Vevo Pop (Pluto TV)
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="http://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png", VH1 Classic (Pluto TV)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkF_G6G8Gdoufrn4HDDTtl8h6dSPUgvaQtpw&usqp=CAU", group-title="MUSIK", Retro Music TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmL_qoOWNxLcYU-5alCC-iyna6IzusMXylZg&usqp=CAU", group-title="MUSIK", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScmLw50NQujCMRlJSrQJpbyPj6jnSBtc2gEQ&usqp=CAU", Rock TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://web1.tikilive.com/public/files/shows/116/116511/49735-640x360-FFFFFF.jpg", Stingray Karaoke
+https://dai.google.com/linear/hls/event/5bqbG8j7T_6_qMONC1SDsg/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://a.jsrdn.com/hls/22865/stingray-rock-alternative/logo_20200720_202032.png", Stingray Rock Alternative
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://d3atsf3fgek2rw.cloudfront.net/content/uploads/2013/10/FINAL_LOGO_THE_BOX-1002x708.jpg", The Box
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6M0hRSBwZVv9MCajNIDNYeAYwIswz6bMeNg&usqp=CAU", The Edge
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+#EXTINF:-1 group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwJ9at22Ylm7HXGHeE2AdCR5zU_MS_n1GYw&usqp=CAU", The Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
